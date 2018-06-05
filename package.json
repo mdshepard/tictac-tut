@@ -2,7 +2,7 @@
   "name": "tictactoe-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mdshepard/tictac-tut.git",
+  "homepage": "https://mdshepard.github.io/tictac-tut/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.4.0",
